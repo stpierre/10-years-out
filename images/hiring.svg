@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640px"
+   height="480px"
+   id="svg3926"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 6">
+  <defs
+     id="defs3928" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5494505"
+     inkscape:cx="298.45052"
+     inkscape:cy="254.31466"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1126"
+     inkscape:window-x="2640"
+     inkscape:window-y="473"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3934" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="50,330"
+       id="guide3936" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="600,320"
+       id="guide3938" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="350,50"
+       id="guide3940" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="370,450"
+       id="guide3942" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3931">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50,30 0,400 550,0 0,0 0,0"
+       id="path3944"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="40"
+       y="450"
+       id="text3946"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="40"
+         y="450"
+         id="tspan3950"
+         style="font-size:16px">Recruiting/screening</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="500"
+       y="450"
+       id="text3954"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3956"
+         x="500"
+         y="450"
+         style="font-size:16px">Tech interview</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50,350 550,60"
+       id="path3964"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50,30 550,0 0,400"
+       id="path3966"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffb380;stroke:#000000;stroke-width:1.25263941px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 50.12632,70.09795 599.87368,289.87368"
+       id="path3968"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffb380;stroke:#000000;stroke-width:1.291;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 50.593018,390.19527 c 0,-36.75643 0.06623,-39.04611 1.129432,-39.04628 0.621188,-1e-4 123.58959,13.35948 273.26311,29.68795 149.67353,16.32846 272.59613,29.68812 273.16135,29.68812 0.89272,0 1.02767,1.2289 1.02767,9.35815 l 0,9.35816 -274.29078,0 -274.290782,0 0,-39.0461 z"
+       id="path3970"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="70"
+       y="410"
+       id="text4492"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4494"
+         x="70"
+         y="410">Education</tspan></text>
+    <path
+       style="fill:#80ff80;stroke:#000000;stroke-width:0.83319861;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 324.78243,178.86506 50.814343,69.245062 50.643392,50.140377 50.472441,31.035692 l 274.300389,0 274.30038,0 0,128.755318 c 0,70.81543 -0.0726,128.74154 -0.16135,128.72468 -0.0887,-0.0169 -123.44698,-49.35964 -274.12943,-109.65063 z"
+       id="path4500"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#80b3ff;stroke:#000000;stroke-width:0.83319860999999984;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 324.78243,379.17936 C 174.45495,362.72642 51.241914,349.25325 50.975691,349.23896 c -0.598335,-0.0321 -0.651327,-277.543693 -0.053,-277.543693 0.237074,0 123.667929,49.257383 274.290779,109.460853 l 273.85974,109.46086 0,59.30865 c 0,32.61975 -0.21782,59.27704 -0.48404,59.2384 -0.26622,-0.0387 -123.47926,-13.53174 -273.80674,-29.98467 l 0,0 z"
+       id="path4502"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="70"
+       y="70"
+       id="text4484"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4486"
+         x="70"
+         y="70">Attitude</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="70"
+       y="340"
+       id="text4488"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4490"
+         x="70"
+         y="340">Experience</tspan></text>
+  </g>
+</svg>
